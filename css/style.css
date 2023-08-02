@@ -38,7 +38,7 @@ body {
 }
 .header .container {
   display: flex;
-  justify-content: right;
+  justify-content: space-between;
   align-items: center;
 }
 .header .links {
@@ -257,7 +257,7 @@ body {
 }
 .portfolio .portfolio-content .card img {
   max-width: 100%;
-  padding: 50px 100px 0 100px;
+  padding: 5px 10px 0 10px;
 }
 .portfolio .portfolio-content .card .info {
   padding: 20px;
